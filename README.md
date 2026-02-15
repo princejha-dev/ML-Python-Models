@@ -6,6 +6,12 @@ A comprehensive collection of **machine learning prediction projects** built wit
 
 ## 📊 Projects
 
+### 🛍️ ShopSmart Purchase Prediction
+Predict customer purchasing behavior with machine learning! Build a **classification model** to determine whether customers will make a purchase.
+- 🎯 **Techniques**: Decision Tree Classification, Hyperparameter Tuning, Pipeline Architecture
+- 📁 **Dataset**: `shop_smart_ecommerce.csv` (E-commerce customer data)
+- 📓 **Notebook**: `ShopSmart_Purchase_prediction/purchase.ipynb`
+
 ### 🚢 Titanic Survival Prediction
 Unlock the secrets of the Titanic disaster! Build a **classification model** to predict passenger survival rates.
 - 🎯 **Techniques**: Logistic Regression, Data Preprocessing, Feature Engineering
